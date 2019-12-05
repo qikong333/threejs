@@ -1,0 +1,31 @@
+	#canvas {
+	  width: 100%;
+	  display: block;
+	  height: 100%;
+	  position: relative;
+	  // background: #000;
+
+	  .box2,
+	  app-layer {
+	    background: #b4b3b3;
+	    position: absolute;
+	    z-index: 9999;
+	    top: 100px;
+	    left: 0;
+	    width: 200px;
+	    height: 200px;
+	  }
+
+
+	}
+
+	::ng-deep .label {
+	  color: #FFF;
+	  font-family: sans-serif;
+	  padding: 0.12px;
+	  background: rgba(0, 0, 0, .6);
+	  border-radius: 0.8px;
+	  width: 0.1px;
+
+	  input {}
+	}

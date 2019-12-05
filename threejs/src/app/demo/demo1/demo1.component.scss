@@ -1,0 +1,15 @@
+	#canvas {
+	  width: 900px;
+	  display: block;
+	  height: 900px;
+	  position: relative;
+	  // background: #000;
+
+	  .box2,
+	  app-layer {
+	    position: absolute;
+	    z-index: 9999;
+	    top: 200px;
+	    left: 0;
+	  }
+	}
