@@ -24,7 +24,7 @@
     "cannon": "^0.6.2",
     "rxjs": "~6.4.0",
     "stats.js": "^0.17.0",
-    "three": "^0.105.2",
+    "three": "^0.137.0",
     "three-full": "^17.1.0",
     "three-orbitcontrols": "^2.102.1",
     "three.meshline": "^1.2.0",
